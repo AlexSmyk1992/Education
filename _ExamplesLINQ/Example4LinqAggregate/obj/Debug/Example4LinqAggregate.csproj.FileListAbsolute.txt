@@ -1,0 +1,16 @@
+Q:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day7 Введение в LINQ Ч.1\ExamplesLINQ\ExamplesLINQ\Example4LinqAggregate\bin\Debug\Example4LinqAggregate.exe.config
+Q:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day7  Введение в LINQ Ч.1\ExamplesLINQ\Example4LinqAggregate\bin\Debug\Example4LinqAggregate.exe.config
+Q:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day7  Введение в LINQ Ч.1\ExamplesLINQ\Example4LinqAggregate\bin\Debug\Example4LinqAggregate.exe
+Q:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day7  Введение в LINQ Ч.1\ExamplesLINQ\Example4LinqAggregate\bin\Debug\Example4LinqAggregate.pdb
+Q:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day7  Введение в LINQ Ч.1\ExamplesLINQ\Example4LinqAggregate\obj\Debug\Example4LinqAggregate.csprojResolveAssemblyReference.cache
+Q:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day7  Введение в LINQ Ч.1\ExamplesLINQ\Example4LinqAggregate\obj\Debug\Example4LinqAggregate.exe
+Q:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day7  Введение в LINQ Ч.1\ExamplesLINQ\Example4LinqAggregate\obj\Debug\Example4LinqAggregate.pdb
+E:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day7  Введение в LINQ Ч.1\ExamplesLINQ\Example4LinqAggregate\bin\Debug\Example4LinqAggregate.exe.config
+E:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day7  Введение в LINQ Ч.1\ExamplesLINQ\Example4LinqAggregate\obj\Debug\Example4LinqAggregate.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day7  Введение в LINQ Ч.1\ExamplesLINQ\Example4LinqAggregate\obj\Debug\Example4LinqAggregate.pdb
+E:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day7  Введение в LINQ Ч.1\ExamplesLINQ\Example4LinqAggregate\bin\Debug\Example4LinqAggregate.exe
+E:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day7  Введение в LINQ Ч.1\ExamplesLINQ\Example4LinqAggregate\bin\Debug\Example4LinqAggregate.pdb
+E:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day7  Введение в LINQ Ч.1\ExamplesLINQ\Example4LinqAggregate\obj\Debug\Example4LinqAggregate.csprojResolveAssemblyReference.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day7  Введение в LINQ Ч.1\_ExamplesLINQ\Example4LinqAggregate\bin\Debug\Example4LinqAggregate.exe.config
+G:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day7  Введение в LINQ Ч.1\_ExamplesLINQ\Example4LinqAggregate\obj\Debug\Example4LinqAggregate.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day7  Введение в LINQ Ч.1\_ExamplesLINQ\Example4LinqAggregate\obj\Debug\Example4LinqAggregate.pdb

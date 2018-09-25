@@ -1,0 +1,5 @@
+G:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day7  Введение в LINQ Ч.1\_ExamplesLINQ\Example1AnonymusTypes\bin\Debug\Example1AnonymusTypes.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day7  Введение в LINQ Ч.1\_ExamplesLINQ\Example1AnonymusTypes\bin\Debug\Example1AnonymusTypes.pdb
+G:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day7  Введение в LINQ Ч.1\_ExamplesLINQ\Example1AnonymusTypes\obj\Debug\Example1AnonymusTypes.csprojResolveAssemblyReference.cache
+G:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day7  Введение в LINQ Ч.1\_ExamplesLINQ\Example1AnonymusTypes\obj\Debug\Example1AnonymusTypes.exe
+G:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day7  Введение в LINQ Ч.1\_ExamplesLINQ\Example1AnonymusTypes\obj\Debug\Example1AnonymusTypes.pdb
