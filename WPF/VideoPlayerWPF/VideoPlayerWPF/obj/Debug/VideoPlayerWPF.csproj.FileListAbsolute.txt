@@ -1,0 +1,14 @@
+C:\С#\VideoPlayerWPF\VideoPlayerWPF\bin\Debug\VideoPlayerWPF.exe.config
+C:\С#\VideoPlayerWPF\VideoPlayerWPF\bin\Debug\VideoPlayerWPF.exe
+C:\С#\VideoPlayerWPF\VideoPlayerWPF\bin\Debug\VideoPlayerWPF.pdb
+C:\С#\VideoPlayerWPF\VideoPlayerWPF\obj\Debug\VideoPlayerWPF.csprojResolveAssemblyReference.cache
+C:\С#\VideoPlayerWPF\VideoPlayerWPF\obj\Debug\MainWindow.g.cs
+C:\С#\VideoPlayerWPF\VideoPlayerWPF\obj\Debug\App.g.cs
+C:\С#\VideoPlayerWPF\VideoPlayerWPF\obj\Debug\VideoPlayerWPF_MarkupCompile.cache
+C:\С#\VideoPlayerWPF\VideoPlayerWPF\obj\Debug\VideoPlayerWPF_MarkupCompile.lref
+C:\С#\VideoPlayerWPF\VideoPlayerWPF\obj\Debug\MainWindow.baml
+C:\С#\VideoPlayerWPF\VideoPlayerWPF\obj\Debug\VideoPlayerWPF.g.resources
+C:\С#\VideoPlayerWPF\VideoPlayerWPF\obj\Debug\VideoPlayerWPF.Properties.Resources.resources
+C:\С#\VideoPlayerWPF\VideoPlayerWPF\obj\Debug\VideoPlayerWPF.csproj.GenerateResource.Cache
+C:\С#\VideoPlayerWPF\VideoPlayerWPF\obj\Debug\VideoPlayerWPF.exe
+C:\С#\VideoPlayerWPF\VideoPlayerWPF\obj\Debug\VideoPlayerWPF.pdb
