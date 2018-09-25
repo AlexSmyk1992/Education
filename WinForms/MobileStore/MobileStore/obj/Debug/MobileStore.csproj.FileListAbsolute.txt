@@ -1,0 +1,9 @@
+C:\С#\MobileStore\MobileStore\bin\Debug\MobileStore.exe.config
+C:\С#\MobileStore\MobileStore\bin\Debug\MobileStore.exe
+C:\С#\MobileStore\MobileStore\bin\Debug\MobileStore.pdb
+C:\С#\MobileStore\MobileStore\obj\Debug\MobileStore.csprojResolveAssemblyReference.cache
+C:\С#\MobileStore\MobileStore\obj\Debug\MobileStore.Properties.Resources.resources
+C:\С#\MobileStore\MobileStore\obj\Debug\MobileStore.csproj.GenerateResource.Cache
+C:\С#\MobileStore\MobileStore\obj\Debug\MobileStore.exe
+C:\С#\MobileStore\MobileStore\obj\Debug\MobileStore.pdb
+C:\С#\MobileStore\MobileStore\obj\Debug\MobileStore.MainForm.resources

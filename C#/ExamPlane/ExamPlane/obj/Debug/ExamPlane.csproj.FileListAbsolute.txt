@@ -1,0 +1,6 @@
+C:\С#\ExamPlane\ExamPlane\bin\Debug\ExamPlane.exe.config
+C:\С#\ExamPlane\ExamPlane\bin\Debug\ExamPlane.exe
+C:\С#\ExamPlane\ExamPlane\bin\Debug\ExamPlane.pdb
+C:\С#\ExamPlane\ExamPlane\obj\Debug\ExamPlane.csprojResolveAssemblyReference.cache
+C:\С#\ExamPlane\ExamPlane\obj\Debug\ExamPlane.exe
+C:\С#\ExamPlane\ExamPlane\obj\Debug\ExamPlane.pdb

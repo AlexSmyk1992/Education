@@ -1,0 +1,13 @@
+C:\С#\Authorization\Authorization\bin\Debug\Authorization.exe.config
+C:\С#\Authorization\Authorization\bin\Debug\Authorization.exe
+C:\С#\Authorization\Authorization\bin\Debug\Authorization.pdb
+C:\С#\Authorization\Authorization\obj\Debug\Authorization.csprojResolveAssemblyReference.cache
+C:\С#\Authorization\Authorization\obj\Debug\Authorization.Properties.Resources.resources
+C:\С#\Authorization\Authorization\obj\Debug\Authorization.csproj.GenerateResource.Cache
+C:\С#\Authorization\Authorization\obj\Debug\Authorization.exe
+C:\С#\Authorization\Authorization\obj\Debug\Authorization.pdb
+C:\С#\Authorization\Authorization\obj\Debug\Authorization.Pictures.Resource1.resources
+C:\С#\Authorization\Authorization\obj\Debug\Authorization.RegistrationForm.resources
+C:\С#\Authorization\Authorization\obj\Debug\Authorization.MainAuthForm.resources
+C:\С#\Authorization\Authorization\obj\Debug\Authorization.MainWindowAppForm.resources
+C:\С#\Authorization\Authorization\obj\Debug\Authorization.ResetPassForm.resources

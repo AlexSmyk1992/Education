@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<MobileDataBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MobilePhones>
+    <MobilePhone>
+      <osName>Android 8.0</osName>
+      <processor>2.6</processor>
+      <opList>
+        <string>Wifi</string>
+        <string>GPS</string>
+        <string>TV</string>
+        <string>MultiTouch</string>
+      </opList>
+      <Id>1</Id>
+      <Name>Samsung S9</Name>
+      <OsName>Android 8.0</OsName>
+      <Processor>2.6</Processor>
+      <Price>400</Price>
+      <ImgPath>SamsungS9.jpeg</ImgPath>
+    </MobilePhone>
+    <MobilePhone>
+      <osName>IOS 11</osName>
+      <processor>2.5</processor>
+      <opList>
+        <string>Wifi</string>
+        <string>2Sim</string>
+        <string>GPS</string>
+        <string>MultiTouch</string>
+      </opList>
+      <Id>2</Id>
+      <Name>IPhone 8S</Name>
+      <OsName>IOS 11</OsName>
+      <Processor>2.5</Processor>
+      <Price>500</Price>
+      <ImgPath>Iphone.jpg</ImgPath>
+    </MobilePhone>
+    <MobilePhone>
+      <osName>Android 7.0</osName>
+      <processor>2.2</processor>
+      <opList>
+        <string>Wifi</string>
+        <string>GPS</string>
+        <string>MultiTouch</string>
+      </opList>
+      <Id>1</Id>
+      <Name>Xiaomi</Name>
+      <OsName>Android 7.0</OsName>
+      <Processor>2.2</Processor>
+      <Price>200</Price>
+      <ImgPath>Xiaomi.jpeg</ImgPath>
+    </MobilePhone>
+    <MobilePhone>
+      <osName>Android 8.0</osName>
+      <processor>2.5</processor>
+      <opList>
+        <string>Wifi</string>
+        <string>GPS</string>
+        <string>MultiTouch</string>
+      </opList>
+      <Id>0</Id>
+      <Name>Meizu</Name>
+      <OsName>Android 8.0</OsName>
+      <Processor>2.5</Processor>
+      <Price>300</Price>
+      <ImgPath>Meizu.jpg</ImgPath>
+    </MobilePhone>
+    <MobilePhone>
+      <osName>Android</osName>
+      <processor>2.2</processor>
+      <opList>
+        <string>Wifi</string>
+        <string>MultiTouch</string>
+      </opList>
+      <Id>0</Id>
+      <Name>Huawei</Name>
+      <OsName>Android</OsName>
+      <Processor>2.2</Processor>
+      <Price>300</Price>
+      <ImgPath>Huawei.jpg</ImgPath>
+    </MobilePhone>
+    <MobilePhone>
+      <osName>Windows Phone</osName>
+      <processor>2.2</processor>
+      <opList>
+        <string>Wifi</string>
+        <string>GPS</string>
+        <string>MultiTouch</string>
+      </opList>
+      <Id>0</Id>
+      <Name>Nokia</Name>
+      <OsName>Windows Phone</OsName>
+      <Processor>2.2</Processor>
+      <Price>300</Price>
+      <ImgPath>Huawei.jpg</ImgPath>
+    </MobilePhone>
+    <MobilePhone>
+      <osName>Android</osName>
+      <processor>2.2</processor>
+      <opList>
+        <string>Wifi</string>
+        <string>GPS</string>
+        <string>MultiTouch</string>
+      </opList>
+      <Id>0</Id>
+      <Name>HTC</Name>
+      <OsName>Android</OsName>
+      <Processor>2.2</Processor>
+      <Price>250</Price>
+      <ImgPath>Htc.jpg</ImgPath>
+    </MobilePhone>
+  </MobilePhones>
+  <Options>
+    <string>Wifi</string>
+    <string>2Sim</string>
+    <string>GPS</string>
+    <string>TV</string>
+    <string>MultiTouch</string>
+  </Options>
+</MobileDataBase>

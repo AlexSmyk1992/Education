@@ -1,0 +1,14 @@
+C:\С#\StopWatch\StopWatch\bin\Debug\StopWatch.exe.config
+C:\С#\StopWatch\StopWatch\bin\Debug\StopWatch.exe
+C:\С#\StopWatch\StopWatch\bin\Debug\StopWatch.pdb
+C:\С#\StopWatch\StopWatch\obj\Debug\MainWindow.g.cs
+C:\С#\StopWatch\StopWatch\obj\Debug\App.g.cs
+C:\С#\StopWatch\StopWatch\obj\Debug\StopWatch_MarkupCompile.cache
+C:\С#\StopWatch\StopWatch\obj\Debug\StopWatch_MarkupCompile.lref
+C:\С#\StopWatch\StopWatch\obj\Debug\MainWindow.baml
+C:\С#\StopWatch\StopWatch\obj\Debug\StopWatch.g.resources
+C:\С#\StopWatch\StopWatch\obj\Debug\StopWatch.Properties.Resources.resources
+C:\С#\StopWatch\StopWatch\obj\Debug\StopWatch.csproj.GenerateResource.Cache
+C:\С#\StopWatch\StopWatch\obj\Debug\StopWatch.exe
+C:\С#\StopWatch\StopWatch\obj\Debug\StopWatch.pdb
+C:\С#\StopWatch\StopWatch\obj\Debug\StopWatch.csprojResolveAssemblyReference.cache

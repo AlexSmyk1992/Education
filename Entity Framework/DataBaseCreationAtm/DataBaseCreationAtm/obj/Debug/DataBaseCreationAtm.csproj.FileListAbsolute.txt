@@ -1,0 +1,10 @@
+C:\С#\DataBaseCreationAtm\DataBaseCreationAtm\bin\Debug\DataBaseCreationAtm.exe.config
+C:\С#\DataBaseCreationAtm\DataBaseCreationAtm\bin\Debug\DataBaseCreationAtm.exe
+C:\С#\DataBaseCreationAtm\DataBaseCreationAtm\bin\Debug\DataBaseCreationAtm.pdb
+C:\С#\DataBaseCreationAtm\DataBaseCreationAtm\bin\Debug\EntityFramework.dll
+C:\С#\DataBaseCreationAtm\DataBaseCreationAtm\bin\Debug\EntityFramework.SqlServer.dll
+C:\С#\DataBaseCreationAtm\DataBaseCreationAtm\bin\Debug\EntityFramework.xml
+C:\С#\DataBaseCreationAtm\DataBaseCreationAtm\bin\Debug\EntityFramework.SqlServer.xml
+C:\С#\DataBaseCreationAtm\DataBaseCreationAtm\obj\Debug\DataBaseCreationAtm.csprojResolveAssemblyReference.cache
+C:\С#\DataBaseCreationAtm\DataBaseCreationAtm\obj\Debug\DataBaseCreationAtm.exe
+C:\С#\DataBaseCreationAtm\DataBaseCreationAtm\obj\Debug\DataBaseCreationAtm.pdb

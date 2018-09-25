@@ -1,0 +1,6 @@
+C:\С#\Linq2Xml\Linq2Xml\bin\Debug\Linq2Xml.exe.config
+C:\С#\Linq2Xml\Linq2Xml\bin\Debug\Linq2Xml.exe
+C:\С#\Linq2Xml\Linq2Xml\bin\Debug\Linq2Xml.pdb
+C:\С#\Linq2Xml\Linq2Xml\obj\Debug\Linq2Xml.csprojResolveAssemblyReference.cache
+C:\С#\Linq2Xml\Linq2Xml\obj\Debug\Linq2Xml.exe
+C:\С#\Linq2Xml\Linq2Xml\obj\Debug\Linq2Xml.pdb

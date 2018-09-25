@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<MobileDataBase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MobilePhones>
+    <MobilePhone>
+      <osName>Android</osName>
+      <processor>2.2</processor>
+      <opList>
+        <string>Wifi</string>
+        <string>2Sim</string>
+        <string>GPS</string>        
+        <string>MultiTouch</string>
+      </opList>
+      <Id>1</Id>
+      <Name>Samsung S9</Name>
+      <OsName>Android</OsName>
+      <Processor>2.2</Processor>
+      <Price>400</Price>
+      <ImgPath>SamsungS9.jpeg</ImgPath>
+    </MobilePhone>
+    <MobilePhone>
+      <osName>IOS</osName>
+      <processor>2.5</processor>
+      <opList />
+      <Id>2</Id>
+      <Name>IPhone 8S</Name>
+      <OsName>IOS</OsName>
+      <Processor>2.5</Processor>
+      <Price>500</Price>
+      <ImgPath>Iphone.jpg</ImgPath>
+    </MobilePhone>
+  </MobilePhones>
+  <Options>
+    <string>Wifi</string>
+    <string>2Sim</string>
+    <string>GPS</string>
+    <string>TV</string>
+    <string>MultiTouch</string>
+  </Options>
+</MobileDataBase

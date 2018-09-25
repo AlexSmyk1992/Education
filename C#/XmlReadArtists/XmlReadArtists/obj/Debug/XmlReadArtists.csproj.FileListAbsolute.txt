@@ -1,0 +1,9 @@
+C:\С#\XmlReadArtists\XmlReadArtists\bin\Debug\XmlReadArtists.exe.config
+C:\С#\XmlReadArtists\XmlReadArtists\obj\Debug\XmlReadArtists.Properties.Resources.resources
+C:\С#\XmlReadArtists\XmlReadArtists\obj\Debug\XmlReadArtists.csproj.GenerateResource.Cache
+C:\С#\XmlReadArtists\XmlReadArtists\obj\Debug\XmlReadArtists.MainForm.resources
+C:\С#\XmlReadArtists\XmlReadArtists\bin\Debug\XmlReadArtists.exe
+C:\С#\XmlReadArtists\XmlReadArtists\bin\Debug\XmlReadArtists.pdb
+C:\С#\XmlReadArtists\XmlReadArtists\obj\Debug\XmlReadArtists.exe
+C:\С#\XmlReadArtists\XmlReadArtists\obj\Debug\XmlReadArtists.pdb
+C:\С#\XmlReadArtists\XmlReadArtists\obj\Debug\XmlReadArtists.csprojResolveAssemblyReference.cache

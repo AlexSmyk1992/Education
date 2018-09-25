@@ -1,0 +1,6 @@
+C:\С#\WeatherXML\WeatherXML\bin\Debug\WeatherXML.exe.config
+C:\С#\WeatherXML\WeatherXML\bin\Debug\WeatherXML.exe
+C:\С#\WeatherXML\WeatherXML\bin\Debug\WeatherXML.pdb
+C:\С#\WeatherXML\WeatherXML\obj\Debug\WeatherXML.csprojResolveAssemblyReference.cache
+C:\С#\WeatherXML\WeatherXML\obj\Debug\WeatherXML.exe
+C:\С#\WeatherXML\WeatherXML\obj\Debug\WeatherXML.pdb

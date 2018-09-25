@@ -1,0 +1,6 @@
+C:\С#\ParsingHTTP\ParsingHTTP\bin\Debug\ParsingHTTP.exe.config
+C:\С#\ParsingHTTP\ParsingHTTP\obj\Debug\ParsingHTTP.csprojResolveAssemblyReference.cache
+C:\С#\ParsingHTTP\ParsingHTTP\bin\Debug\ParsingHTTP.exe
+C:\С#\ParsingHTTP\ParsingHTTP\bin\Debug\ParsingHTTP.pdb
+C:\С#\ParsingHTTP\ParsingHTTP\obj\Debug\ParsingHTTP.exe
+C:\С#\ParsingHTTP\ParsingHTTP\obj\Debug\ParsingHTTP.pdb
