@@ -1,1 +1,0 @@
-Q:\_Работа (нов)\_ITstep\_Уч. материал\5.ADO\Day7 Введение в LINQ Ч.1\ExamplesLINQ\ExamplesLINQ\Example3LingObjects\bin\Debug\Example3LingObjects.exe.config
